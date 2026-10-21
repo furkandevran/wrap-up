@@ -1,6 +1,6 @@
 ---
 name: wrap-up
-description: End-of-session close-out. Reads the full session transcript (including compacted parts), finds decisions nobody wrote down, tasks promised but never filed, abandoned threads, memory candidates and unpushed commits; presents them as one short list, writes everything after a single approval, and hands over a prompt for the next session if work continues. Use when the user says "wrap up", "close the session", "can I close this?", "let's stop here", or similar.
+description: End-of-session close-out. Reads the full session transcript (including compacted parts), finds decisions nobody wrote down, tasks promised but never filed, abandoned threads, memory candidates and unpushed commits; presents them as one short list, writes everything after a single approval, and hands over a prompt for the next session if work continues. Use when the user says "wrap up", "close the session", "can I close this?", "let's stop here", "done for today", "end the session", "before I close this", or similar.
 ---
 
 # /wrap-up — empty the session into your records before you close it
