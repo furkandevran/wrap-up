@@ -74,6 +74,10 @@ the user should not have to work out "what will you do, where, and why does it m
 
 ### Language rules (more important than the list itself)
 
+- **Write in the language of the session.** The list, the report and the hand-over prompt all use
+  the language the user wrote in (the user's own messages decide, not this file). If the session
+  mixes languages, use the one the user used in their last messages. File names, code and
+  commands stay as they are.
 - **No jargon.** No "hygiene", "thread", "record target". Say "work left hanging", "a decision
   nobody wrote down", "changes that were never pushed".
 - **Every item has three parts:** what is there (1 sentence) → what you will do (which file/task
